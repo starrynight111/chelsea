@@ -1,7 +1,7 @@
 body {
 	font-family: Segoe UI, arial, sans-serif;
-	background-color: #99CCFF;
-	color:#000000 ;
+	background-color: #0276FD;
+	color: #003F87;
 }
 
 img.person {
@@ -23,7 +23,7 @@ div#logo {
 }
 
 div#container {
-	background-color: #FFFF99;
+	background-color: #FFFFFF;
 	min-width:850px;
 	margin-left: auto;
 	margin-right: auto;
@@ -40,7 +40,6 @@ h1, h2, div>a {
     padding-left:  30px;
 }
 
-
 ul>li {
     list-style-type: none;
 }
@@ -54,4 +53,3 @@ a {
 img {border:  0;}
 
 a img {outline:  none;}
-h {padding-left :150;}

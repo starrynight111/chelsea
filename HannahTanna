@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="Style/Style.css" />
+        <title>Linda Carter</title>
+    </head>
+    <body>
+    <div  id="container">
+        <div id="logo">
+            <a href="/"><img src="images/CstBuffs.png" alt="CST Buffs" /></a>
+        </div>
+        <h1>Hannah</h1>
+        	    <a href="/"><img src="C:\Users\A00976602\Desktop\lyon.jpg" alt="CST Buffs" /></a>
+
+        <div id="bio">
+            <p>Hannah was born in England and moved to Vancouver when she was a kid. Her hobbies include skiiing, travelling, playing the piano
+            and learning new languages. She recently lived in France for almost a year to teach, travel around, and to experience being fully
+            immersed in another language.</p>
+            <p>One way to reach Hannah is via email: hannahsetcbcit@gmail.com </p>
+        </div>
+    </div>
+    </body>
+</html>
